@@ -1,4 +1,4 @@
-var url = window.location.origin;
+var url = 'https://www.nsgtaxi.com';
 
 jQuery.fn.ForceNumericOnly = function () {
     return this.each(function () {

@@ -40,7 +40,7 @@ var driver_charge = 0;
 var gst_charge = 0;
 var total_fare = 0;
 
-var url = window.location.origin;
+var url = 'https://www.nsgtaxi.com';
 
 var map;
 var directionsDisplay;

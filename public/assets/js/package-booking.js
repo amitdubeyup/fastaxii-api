@@ -17,7 +17,7 @@ var gst_charge = 0;
 var total_days = 0;
 var total_person = 0;
 var total_fare = 0;
-var url = window.location.origin;
+var url = 'https://www.nsgtaxi.com';
 
 $(function () {
     $("#mobile").ForceNumericOnly();

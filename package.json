@@ -1,7 +1,7 @@
 {
-    "name": "nsg-taxi-website",
+    "name": "fastaxii-api",
     "version": "1.0.0",
-    "description": "A awesome app for taxi-booking!",
+    "description": "Fastaxii Api",
     "engines": {
         "node": ">=12.0.0",
         "npm": ">=6.0.0"

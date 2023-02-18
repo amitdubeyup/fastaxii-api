@@ -23,4 +23,4 @@ app.use('/', websiteRoutes);
 
 app.listen(port);
 
-console.log('NSG Taxi is running on http://localhost:' + port);
+console.log('Fastaxii api is running on http://localhost:' + port);

@@ -1,5 +1,3 @@
-# Fastaxii Web
-
 # Fastaxii Api
 
 
